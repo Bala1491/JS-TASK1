@@ -1,0 +1,9 @@
+Difference between document and window objects?
+
+Document:
+
+Document is the represents structure and content of webdocument.
+
+Window objects:
+
+Window objects is global objects in browser environment,that represents the window or frame.
